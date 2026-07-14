@@ -1,3 +1,6 @@
 # Jornada DEV — TOTVS Paulista
+
 Exercícios e projetos do curso, organizados por módulo.
-Aluno: Seu Nome
+
+
+Aluno: Pedro Gabriel dos Santos
