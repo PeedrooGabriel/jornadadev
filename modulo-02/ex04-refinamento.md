@@ -2,7 +2,7 @@
 
 :computer: Programa START DEV - TOTVS Paulista.
 
-## N°vel I
+## N√≠vel I
 
 Registrar itens e calcular o subtotal.
 
@@ -10,7 +10,7 @@ Verificar fidelidade e calcular desconto.
 
 Calcular e exibir o total final.
 
-## N°vel II
+## N√≠vel II
 
 1. Registrar itens e calcular o subtotal
 
@@ -30,7 +30,7 @@ Calcular e exibir o total final.
 
         desconto = subtotal * 0.05.
 
-        Sen∆o
+        Sen√£o
 
         desconto = 0.
 
