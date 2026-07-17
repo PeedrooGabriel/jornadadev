@@ -11,11 +11,11 @@
 - a. "Some dois números"
   > Considero o algoritmo **válido.** Poderia ser mais claro sobre o que fazer a partir do processamento da soma, mas atende aos requisitos necessários.
 
-- b. ?Leia um número. Se for positivo, mostre ?positivo?. Senão, mostre ?negativo?.?
+- b. “Leia um número. Se for positivo, mostre ‘positivo’. Senão, mostre ‘negativo’.”
   > Algoritmo **válido**
 
-- c. ?Fique repetindo até acabar.?
+- c. “Fique repetindo até acabar.”
   > Apesar do trecho "até acabar" indicar que este algoritmo é finito, a incerteza sobre o fim me faz chegar à conclusão de que seja **Inválido.**
 
-- d. ?Pegue um ingrediente qualquer e cozinhe.?
+- d. “Pegue um ingrediente qualquer e cozinhe.”
   > Um ingrediente sendo variável qualquer permite a entrada de valores incompatíveis que podem gerar erros tanto no processamento quanto na saída do algoritmo. Portanto **Inválido.**
