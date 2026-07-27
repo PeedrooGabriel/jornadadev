@@ -2,7 +2,7 @@ FUNCTION FatorialNum(nNum)
     IF nNum <= 1
         RETURN 1
     ENDIF
-RETURN nNum * FatorialN(nNum - 1)
+RETURN nNum * FatorialNum(nNum - 1)
 
 FUNCTION EhPrimo(nNum)
     LOCAL nI
