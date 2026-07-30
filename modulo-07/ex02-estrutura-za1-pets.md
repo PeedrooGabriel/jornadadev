@@ -1,16 +1,16 @@
 # Estrutura da tabela ZA1 (Pets)
 
-- a. Liste os campos da ZA1 (nome do campo, tipo, tamanho) ? incluindo o campo de filial, que ‚ obrigat¢rio em toda tabela do Protheus.
+- a. Liste os campos da ZA1 (nome do campo, tipo, tamanho) ? incluindo o campo de filial, que Ã© obrigatÃ³rio em toda tabela do Protheus.
     1. nome do campo: ZA1_FILIAL | tipo: caracter | tamanho: 2 bytes 
     2. nome do campo: ZA1_NOME | tipo: caracter | tamanho: 50 bytes
     3. nome do campo: ZA1_RACA | tipo: caracter | tamanho: 50 bytes
     4. nome do campo: ZA1_DATA | tipo: Data  | tamanho: 8 bytes
 
-- b. Que ¡ndice faria sentido para a ZA1? Justifique (lembre da analogia da lista telef“nica).
-    ZA1_FILIAL + ZA1_NOME, porque o ¡ndice cria uma ordena‡Æo alfab‚tica para encontrar rapidamente uma informa‡Æo no banco de dados. No contexto da nossa atividade, ele acelera o processo de busca do pet dentro de uma filial espec¡fica.
+- b. Que Ã­ndice faria sentido para a ZA1? Justifique (lembre da analogia da lista telefÃ´nica).
+> ZA1_FILIAL + ZA1_NOME, porque o Ã­ndice cria uma ordenaÃ§Ã£o alfabÃ©tica para encontrar rapidamente uma informaÃ§Ã£o no banco de dados. No contexto da nossa atividade, ele acelera o processo de busca do pet dentro de uma filial especÃ­fica.
 
-- c. Explique por que o prefixo da tabela ‚ Z (o que esse prefixo significa em termos de conven‡Æo do Protheus).
-    Este prefixo faz parte das boas pr ticas e conven‡äes de configura‡Æo/desenvolvimento no Protheus. "Z" significa que esta tabela nÆo faz parte do c¢digo-fonte original, mas foi uma solu‡Æo desenvolvida para atender a uma necessidade espec¡fica do cliente.
+- c. Explique por que o prefixo da tabela Ã© Z (o que esse prefixo significa em termos de convenÃ§Ã£o do Protheus).
+> Este prefixo faz parte das boas prÃ¡ticas e convenÃ§Ãµes de configuraÃ§Ã£o/desenvolvimento no Protheus. "Z" significa que esta tabela nÃ£o faz parte do cÃ³digo-fonte original, mas foi uma soluÃ§Ã£o desenvolvida para atender a uma necessidade especÃ­fica do cliente.
 
-- d. Explique por que os campos come‡am com ZA1_ (ex: ZA1_NOME,ZA1_RACA) e nÆo apenas com o nome do campo solto.
-    No Dicion rio de Dados do Protheus (SX3), todo campo deve iniciar com os trˆs caracteres da tabela … qual pertence para garantir exclusividade e evitar conflitos.
+- d. Explique por que os campos comeÃ§am com ZA1_ (ex: ZA1_NOME,ZA1_RACA) e nÃ£o apenas com o nome do campo solto.
+> No DicionÃ¡rio de Dados do Protheus (SX3), todo campo deve iniciar com os trÃªs caracteres da tabela Ã  qual pertence para garantir exclusividade e evitar conflitos.
