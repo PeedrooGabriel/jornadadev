@@ -1,18 +1,18 @@
 # Recriando ZA1 no Configurador
 
 
-## a. Cadastre a estrutura no dicion rio(SX2/SX3)
+## a. Cadastre a estrutura no dicionÃ¡rio(SX2/SX3)
 
 ![Base de dados SIGACFG](evidencias/ex03-configurador.png)
 ![Criando ZA1](evidencias/ex03-criando-za1.png)
 ![Preenchendo os campos](evidencias/ex03-preenchimento-dos-campos-za1.png)
 ![Campos preenchidos](evidencias/ex03-campos-preenchidos.png)
 
-## b. Force o reconhecimento da tabela pelo framework (rotina de f¢rmulas, como foi mostrado em aula).
+## b. Force o reconhecimento da tabela pelo framework (rotina de fÃ³rmulas, como foi mostrado em aula).
 
 ![Acesso via SIGAMDI](evidencias/ex03-sigamdi.png)
-![For‡ando reconhecimento atrav‚s da f¢rmula dbSelectArea()](evidencias/ex03-forcando-reconhecimento.png)
-![F¢rmula executada](evidencias/ex03-formula-executada.png)
+![Forâ€¡ando reconhecimento atravâ€šs da fÂ¢rmula dbSelectArea()](evidencias/ex03-forcando-reconhecimento.png)
+![FÂ¢rmula executada](evidencias/ex03-formula-executada.png)
 
 ## c. Confira a estrutura final no MPSDU.
 
