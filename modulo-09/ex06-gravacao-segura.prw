@@ -30,13 +30,13 @@ USER FUNCTION STTIPSAL()
         IF INCLUI
             IF !RecLock("SZ1", .T.)
                 lOk  := .F.
-                cMsg := "Nao foi possível inserir contato."
+                cMsg := "Nao foi possÃ­vel inserir contato."
                 Break(NIL)
             ENDIF
         ELSE
             IF !RecLock("SZ1", .F.)
                 lOk  := .F.
-                cMsg := "Não foi possível editar contato."
+                cMsg := "NÃ£o foi possÃ­vel editar contato."
                 Break(NIL)
             ENDIF
         ENDIF
